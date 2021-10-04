@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A culmination of my interests
 
 You can use the [editor on GitHub](https://github.com/Isebelle/my-hobbies/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
